@@ -1,0 +1,5 @@
+ingredient,당근,2021-01-03,3
+ingredient,양파,2020-12-22,1
+ingredient,두부,2020-12-17,1
+ingredient,치즈,2020-12-18,1
+ingredient,치즈감자전,2020-12-18,1
